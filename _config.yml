@@ -26,7 +26,8 @@ description: Landing Page for David Hooke (Formerly David Hurt, married 2021), B
 
 # David's Description: What better way to convince the world that I am Sane, Stable, and With-the-times than to begin a Blog site in Anno Domini 2026? Well, to that I say - How about three parallel Blogs, as I have never and will never be able to live without my loves of History, of Crafts, and of course of STEM Education and the Scientific Method. 
 
-baseurl: "" # ONLY IF THIS IS INSIDE A FOLDER IN THE MAIN REPO, e.g. /blog
+baseurl: "/CaptainHooke" # ONLY IF THIS IS INSIDE A FOLDER IN THE MAIN REPO, e.g. /blog
+#url: 
 url: "www.CaptainHooke.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  FencerDave
 
