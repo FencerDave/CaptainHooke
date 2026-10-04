@@ -48,10 +48,9 @@ were renting from the UW Clean Energy Institute - **NOTHING** motivates me to pu
 threat of dealing with beaurocracy! (Frankly making a new Battery Tester from scratch is one of my key motivations
 of this work! I want to make a DIY tutorial so that EVERY TEST ENGINEER out of school can experience building a battery Test channel from scratch! 
 
-![My workbench, using a cheap but lovely 30V, 30A Power supply to power my brand new $20 Oscilloscope](_images/2026-10/2026-10-04_WorkBench.jpg)
-
-
-
+![My workbench, using a cheap but lovely 30V, 30A Power supply to power my brand new $20 Oscilloscope](/_images/2026-10/2026-10-04_WorkBench.jpg){:data-width="200" data-height="66"}
+Finally I have a power supply and an Oscilloscope. (Actually what I don't have is a good DC multimeter, it's probably going to be my first goal for a PiPico microcontroller, especially since that and a data-logger are a LONG WAY to the battery testing setup, considering that CCCV charging can be done manually with the power supply and constant-R discharge is easy by definition if all we need to do is cycle! (It can even shut itself off at Vmin if we have diodes in the discharge circuit so that the diode V-Step is the VMin!) 
+{:.lead}
 
 
 
