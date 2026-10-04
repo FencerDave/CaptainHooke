@@ -59,7 +59,7 @@ that dragged me into the instagram world of tatting and got me to finally get a 
 
 <div class="my-gallery" style="display:flex; gap:0.5rem; overflow-x:auto; padding-bottom:0.5rem;">
   <img src="/_images/2026-10/2026-10-04_Doilie_0-Pattern.jpg" style="height:220px; border-radius:6px;">
-  <img src="/_images/2026-10/2026-10-04_Doilie_1-shuttles.jpg" style="height:220px; border-radius:6px;">
+  <img src="/_images/2026-10/2026-10-04_Doilie_1shuttles.jpg" style="height:220px; border-radius:6px;">
   <img src="/_images/2026-10/2026-10-04_Doilie_2_Chain.jpg" style="height:220px; border-radius:6px;">
   <img src="/_images/2026-10/2026-10-04_Doilie_3-HalfRing-ontrain.jpg" style="height:220px; border-radius:6px;">
   <img src="/_images/2026-10/2026-10-04_Doilie_4-FirstRing.jpg" style="height:220px; border-radius:6px;">
