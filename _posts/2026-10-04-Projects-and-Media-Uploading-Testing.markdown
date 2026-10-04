@@ -15,13 +15,15 @@ To-Do:
  - [ ] PDFs - Can treat sort of as image, but may want to route through google iframe as per above. (Download links also important! Most browsers will open a download automatically in their preferred way) 
  - [ ] Youtube Embedded Player
  - [ ] Embedded StreamLit App - Tools that I make in Python, and want to be able to deploy for the world to use! (Streamlit hosts for free so long as it's a public Repo/project, and I think I can Embed that website in this page/post instead of having to link to the streamlit account page!)
-<!--
+
+{% comment %}
 Others? Recommendations from Claudius
  - [ ] Github GIST <script src="https://gist.github.com/USERNAME/GIST_ID.js"></script> renders a syntax-highlighted, embeddable code snippet
  - [ ] Math (KaTeX) — Hydejack uses KaTeX to efficiently render math, built in, no setup. Handy for anything electrochemistry-adjacent
  - [ ] Mermaid diagrams — not built in, but one <script src="...mermaid.min.js"> CDN tag plus a <pre class="mermaid"> block gets you flowcharts/sequence diagrams rendered client-side, no image export needed.
  - [ ] Interactive charts (Plotly/Observable) — if you ever want to embed a live data viz rather than a static plot image, a Plotly HTML export or Observable notebook embed both just drop in as iframes/script tags the same way Streamlit does.
--->
+{% endcomment %}
+
 ### General Formatting
  - Make Links like this: [which goes to a Jekyll Markdown Cheatsheet](https://gist.github.com/roachhd/779fa77e9b90fe945b0c)
  - Inline Formatting works like _italics_ as well as **bold** and `codeSnippets.print()`
@@ -48,7 +50,7 @@ were renting from the UW Clean Energy Institute - **NOTHING** motivates me to pu
 threat of dealing with beaurocracy! (Frankly making a new Battery Tester from scratch is one of my key motivations
 of this work! I want to make a DIY tutorial so that EVERY TEST ENGINEER out of school can experience building a battery Test channel from scratch! 
 
-![My workbench, using a cheap but lovely 30V, 30A Power supply to power my brand new $20 Oscilloscope](/_images/2026-10/2026-10-04_WorkBench.jpg){:data-width="200" data-height="66"}
+![My workbench, using a cheap but lovely 30V, 30A Power supply to power my brand new $20 Oscilloscope](/assets/2026-10/2026-10-04_WorkBench.jpg){:data-width="400" data-height="150"}
 Finally I have a power supply and an Oscilloscope. (Actually what I don't have is a good DC multimeter, it's probably going to be my first goal for a PiPico microcontroller, especially since that and a data-logger are a LONG WAY to the battery testing setup, considering that CCCV charging can be done manually with the power supply and constant-R discharge is easy by definition if all we need to do is cycle! (It can even shut itself off at Vmin if we have diodes in the discharge circuit so that the diode V-Step is the VMin!) 
 {:.lead}
 
@@ -58,11 +60,11 @@ The Librarian found me a book on shuttle tatting many months ago (in a littlefre
 that dragged me into the instagram world of tatting and got me to finally get a few shuttles and some cotton/silk thread to try! 
 
 <div class="my-gallery" style="display:flex; gap:0.5rem; overflow-x:auto; padding-bottom:0.5rem;">
-  <img src="/_images/2026-10/2026-10-04_Doilie_0-Pattern.jpg" style="height:220px; border-radius:6px;">
-  <img src="/_images/2026-10/2026-10-04_Doilie_1shuttles.jpg" style="height:220px; border-radius:6px;">
-  <img src="/_images/2026-10/2026-10-04_Doilie_2_Chain.jpg" style="height:220px; border-radius:6px;">
-  <img src="/_images/2026-10/2026-10-04_Doilie_3-HalfRing-ontrain.jpg" style="height:220px; border-radius:6px;">
-  <img src="/_images/2026-10/2026-10-04_Doilie_4-FirstRing.jpg" style="height:220px; border-radius:6px;">
+  <img src="/assets/2026-10/2026-10-04_Doilie_0-Pattern.jpg" style="height:220px; border-radius:6px;">
+  <img src="/assets/2026-10/2026-10-04_Doilie_1shuttles.jpg" style="height:220px; border-radius:6px;">
+  <img src="/assets/2026-10/2026-10-04_Doilie_2_Chain.jpg" style="height:220px; border-radius:6px;">
+  <img src="/assets/2026-10/2026-10-04_Doilie_3-HalfRing-ontrain.jpg" style="height:220px; border-radius:6px;">
+  <img src="/assets/2026-10/2026-10-04_Doilie_4-FirstRing.jpg" style="height:220px; border-radius:6px;">
 </div>
 
 
