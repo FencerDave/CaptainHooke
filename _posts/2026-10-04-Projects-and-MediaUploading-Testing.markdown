@@ -52,7 +52,18 @@ of this work! I want to make a DIY tutorial so that EVERY TEST ENGINEER out of s
 Finally I have a power supply and an Oscilloscope. (Actually what I don't have is a good DC multimeter, it's probably going to be my first goal for a PiPico microcontroller, especially since that and a data-logger are a LONG WAY to the battery testing setup, considering that CCCV charging can be done manually with the power supply and constant-R discharge is easy by definition if all we need to do is cycle! (It can even shut itself off at Vmin if we have diodes in the discharge circuit so that the diode V-Step is the VMin!) 
 {:.lead}
 
+### Image Gallery: 
+Let's see if this works to make a scroll-able image list for my current hobby of Shuttle Tatting for Lacework!  
+The Librarian found me a book on shuttle tatting many months ago (in a littlefreelibrary) and I just recently found a few posts 
+that dragged me into the instagram world of tatting and got me to finally get a few shuttles and some cotton/silk thread to try! 
 
+<div class="my-gallery" style="display:flex; gap:0.5rem; overflow-x:auto; padding-bottom:0.5rem;">
+  <img src="/_images/2026-10/2026-10-04_Doilie_0-Pattern.jpg" style="height:220px; border-radius:6px;">
+  <img src="/_images/2026-10/2026-10-04_Doilie_1-shuttles.jpg" style="height:220px; border-radius:6px;">
+  <img src="/_images/2026-10/2026-10-04_Doilie_2_Chain.jpg" style="height:220px; border-radius:6px;">
+  <img src="/_images/2026-10/2026-10-04_Doilie_3-HalfRing-ontrain.jpg" style="height:220px; border-radius:6px;">
+  <img src="/_images/2026-10/2026-10-04_Doilie_4-FirstRing.jpg" style="height:220px; border-radius:6px;">
+</div>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
